@@ -33,7 +33,7 @@ const Formulario = () => {
                 <legend>Busca Bebidas por Categoria o Ingrediente</legend>
             </fieldset>
             <div className="row mt-4">
-                <div className="col-md-4">
+                <div className="col-md-4 mt-2">
                     <input 
                         name="nombre"
                         className="form-control"
